@@ -6,3 +6,5 @@
 
 [Emails for iPhone](http://www.emailonacid.com/blog/details/C13/7_tips_on_designing_and_developing_emails_for_the_iphone)
 
+[Create Responsive HTML emails](http://webdesign.tutsplus.com/articles/creating-a-simple-responsive-html-email--webdesign-12978)
+
