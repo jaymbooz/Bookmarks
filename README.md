@@ -8,3 +8,5 @@
 
 [Create Responsive HTML emails](http://webdesign.tutsplus.com/articles/creating-a-simple-responsive-html-email--webdesign-12978)
 
+[Rock Solid HTML emails](http://24ways.org/2009/rock-solid-html-emails/)
+
