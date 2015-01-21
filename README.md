@@ -1,9 +1,9 @@
-###Kazi###
+##Kazi##
 [Dovico](https://www.dovico.com/login/default.aspx)
 
 [Cumulus](http://isclicensing.com/)
 
-###HTML Emails###
+##HTML Emails##
 [Gifs in Emails](https://litmus.com/blog/a-guide-to-animated-gifs-in-email) 
 
 [Emails for iPhone](http://www.emailonacid.com/blog/details/C13/7_tips_on_designing_and_developing_emails_for_the_iphone)
@@ -12,7 +12,7 @@
 
 [Rock Solid HTML emails](http://24ways.org/2009/rock-solid-html-emails/)
 
-### CSS ###
+## CSS ##
 [List Item Dropdowns](http://alistapart.com/article/taminglists)
 
 [Pure CSS Lighbox](http://schier.co/blog/2013/11/16/creating-pure-css-lightboxes-with-the-target-selector.html#_)
