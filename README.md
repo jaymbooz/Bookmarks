@@ -24,6 +24,8 @@
 
 [Web Design Ledger](http://webdesignledger.com/)
 
+[Angular JS Starter](https://medium.com/@minipai/angularjs-tutorial-for-designers-8c7dc63ca65f)
+
 ## Tools ##
 [MIME Type](http://www.sitepoint.com/web-foundations/mime-types-complete-list/)
 
