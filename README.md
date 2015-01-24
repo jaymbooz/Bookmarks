@@ -31,6 +31,9 @@
 
 [Mockup Program](http://mock.ly/users/login)
 
+## Design ##
+[PS Tuts](http://www.freshdesignweb.com/photoshop-effect-tutorials.html)
+
 
 
 
