@@ -19,6 +19,8 @@
 
 [CSS 3D Transformations](http://desandro.github.io/3dtransforms/docs/introduction.html)
 
+[CSS Animations](http://callmenick.com/2014/05/08/simple-css3-transitions-transforms-animations-compilation/)
+
 ## Javascript ##
 [AngularJS](https://angularjs.org/)
 
