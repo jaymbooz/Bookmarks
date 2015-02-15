@@ -3,6 +3,8 @@
 
 [Cumulus](http://isclicensing.com/)
 
+[Advert](http://adserver.racingone.com/servlet/control)
+
 ##HTML Emails##
 [Gifs in Emails](https://litmus.com/blog/a-guide-to-animated-gifs-in-email) 
 
@@ -38,7 +40,9 @@
 ## Design ##
 [PS Tuts](http://www.freshdesignweb.com/photoshop-effect-tutorials.html)
 
-## Sports ##
+[Smashing Magazine](http://www.smashingmagazine.com)
+
+## Sport ##
 [ESPN](http://www.espn.com)
 
 [ESPN Radio](http://espn.go.com/espnradio/)
@@ -49,7 +53,14 @@
 
 [F1](http://www.formula1.com/)
 
+[Bleacher Report](http://bleacherreport.com/)
 
+## Nutrition ##
+[Natural News](http://www.naturalnews.com)
+
+[Simple Green Smoothy](http://simplegreensmoothies.com/green-smoothie-101)
+
+[Raw for Thirty](http://www.rawfor30days.com/)
 
 
 
