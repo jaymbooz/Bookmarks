@@ -14,6 +14,8 @@
 
 [Rock Solid HTML emails](http://24ways.org/2009/rock-solid-html-emails/)
 
+[Litmus](http://www.litmus.com)
+
 ## CSS ##
 [List Item Dropdowns](http://alistapart.com/article/taminglists)
 
@@ -107,6 +109,25 @@
 
 ## Weather  ##
 [Wunderground](http://www.wunderground.com)
+
+## Good Listenning/Read Items ##
+[Happy Monday](http://www.happymondaypodcast.com/)
+
+[Besquare](http://www.besquare.me/conferences/besquare-podcast/)
+
+[unFInished](http://www.unfinished.bz/)
+
+[A life Well Wasted](http://alifewellwasted.com/)
+
+[Lets Make Mistakes](http://www.muleradio.net/mistakes/)
+
+[Insert Content Here](https://www.lullabot.com/blog/podcasts/insert-content-here)
+
+[Shop Talk](http://shoptalkshow.com/)
+
+[99% Invincible](http://99percentinvisible.org/)
+
+[The Frequency](http://5by5.tv/frequency)
 
 
 
