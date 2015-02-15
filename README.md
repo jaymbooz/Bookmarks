@@ -62,6 +62,18 @@
 
 [Raw for Thirty](http://www.rawfor30days.com/)
 
+## Tech ##
+[TechCrunch](http://techcrunch.com/)
+
+[Engadget](http://www.engadget.com/)
+
+[THe Verge](http://www.theverge.com/)
+
+[Business Insider](http://www.businessinsider.com/)
+
+[Android Headlines](http://androidheadlines.com/)
+
+[]()
 
 
 
