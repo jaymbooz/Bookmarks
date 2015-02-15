@@ -42,6 +42,30 @@
 
 [Smashing Magazine](http://www.smashingmagazine.com)
 
+[A List Apart](http://alistapart.com/)
+
+[Creative Market](https://creativemarket.com/)
+
+[Designmodo](http://designmodo.com/)
+
+[Design Fix](http://designrfix.com/)
+
+[Noupe](http://www.noupe.com/)
+
+[6 Revisions](http://sixrevisions.com/)
+
+[SitePoint](http://www.sitepoint.com/)
+
+[Splashnology](http://splashnology.com/)
+
+[UX](http://www.uxbooth.com/)
+
+[VD](http://www.vandelaydesign.com/blog/)
+
+[Web Design Depot](http://www.webdesignerdepot.com/)
+
+[Web Design Ledger](http://webdesignledger.com/)
+
 ## Sport ##
 [ESPN](http://www.espn.com)
 
@@ -73,7 +97,16 @@
 
 [Android Headlines](http://androidheadlines.com/)
 
-[]()
+[Venture Beat](http://venturebeat.com/)
+
+[CNET](http://www.cnet.com)
+
+[PC Mag](http://www.pcmag.com)
+
+[Talk Android](http://www.talkandroid.com)
+
+## Weather  ##
+[Wunderground](http://www.wunderground.com)
 
 
 
