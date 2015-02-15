@@ -32,6 +32,7 @@
 
 ## Tools ##
 [MIME Type](http://www.sitepoint.com/web-foundations/mime-types-complete-list/)
+
 [Mockup Program](http://mock.ly/users/login)
 
 ## Design ##
@@ -39,9 +40,13 @@
 
 ## Sports ##
 [ESPN](http://www.espn.com)
+
 [ESPN Radio](http://espn.go.com/espnradio/)
+
 [SkySports](http://www.skysports.com/)
+
 [Cricket](http://www.espncricinfo.com/)
+
 [F1](http://www.formula1.com/)
 
 
