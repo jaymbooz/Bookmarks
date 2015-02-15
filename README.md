@@ -115,7 +115,7 @@
 
 [Besquare](http://www.besquare.me/conferences/besquare-podcast/)
 
-[unFInished](http://www.unfinished.bz/)
+[unFinished](http://www.unfinished.bz/)
 
 [A life Well Wasted](http://alifewellwasted.com/)
 
@@ -128,6 +128,28 @@
 [99% Invincible](http://99percentinvisible.org/)
 
 [The Frequency](http://5by5.tv/frequency)
+
+[Back to Front Show](http://backtofrontshow.com/)
+
+[The Web Ahead](http://5by5.tv/webahead)
+
+[The Big Web Show](http://www.zeldman.com/category/the-big-web-show/)
+
+[BG World](https://boagworld.com/seasons/)
+
+[Creative Coding](http://creativecodingpodcast.com/)
+
+[Developers Life](http://thisdeveloperslife.com/)
+
+[Site Point](http://www.sitepoint.com/web/podcast/)
+
+[CCC](http://ctrlclickcast.com/)
+
+[WD Agency](http://www.webagencypodcast.com/)
+
+[Freeland Web](http://www.thefreelanceweb.com/)
+
+[MAD](http://avclark.com/tgm/)
 
 
 
